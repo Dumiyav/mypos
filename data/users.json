@@ -1,0 +1,26 @@
+[
+    {
+        "id": "60f1a74be8c84",
+        "username": "admin",
+        "password": "$2y$10$8tUAN0Y7NqijIKIAXpVxDOHZvxBZ.VzL9c9dGU9RCa0EoNwKD1Xz.",
+        "name": "Administrator",
+        "role": "admin",
+        "last_login": "2025-05-17 10:54:36"
+    },
+    {
+        "id": "60f1a75ce8c85",
+        "username": "cashier",
+        "password": "$2y$10$8tUAN0Y7NqijIKIAXpVxDOHZvxBZ.VzL9c9dGU9RCa0EoNwKD1Xz.",
+        "name": "John Cashier",
+        "role": "cashier",
+        "last_login": "2023-07-15 09:30:00"
+    },
+    {
+        "id": "60f1a76de8c86",
+        "username": "kitchen",
+        "password": "$2y$10$8tUAN0Y7NqijIKIAXpVxDOHZvxBZ.VzL9c9dGU9RCa0EoNwKD1Xz.",
+        "name": "Chef Mike",
+        "role": "kitchen",
+        "last_login": "2023-07-15 08:45:00"
+    }
+]
